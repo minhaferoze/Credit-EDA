@@ -1,5 +1,6 @@
 # Credit-EDA
 The primary objective of this case study is to illustrate the practical application of Exploratory Data Analysis (EDA) in a genuine business context. Throughout this case study, we will cultivate a fundamental comprehension of risk analytics within the banking and financial services sector, gaining insights into how data plays a pivotal role in mitigating financial lending risks.
+
 **Business Understanding:**
 Lending companies often face challenges when deciding to lend money to people who don't have a strong or any credit history. Some individuals take advantage of this situation by not repaying their loans. To make sure we don't turn down people who can actually repay their loans, we use a method called Exploratory Data Analysis (EDA) to examine the data for any patterns.
 
