@@ -18,3 +18,12 @@ The dataset provided includes information about loan applications at the time th
 This case study's primary objective is to spot patterns that indicate whether a client might struggle with making loan payments. These patterns can guide actions such as denying a loan, reducing the loan amount, or offering loans to riskier applicants at higher interest rates. The ultimate aim is to make sure that people who can actually repay their loans are not turned away. This case study aims to identify such applicants through Exploratory Data Analysis (EDA).
 
 The company wants to figure out what factors most strongly predict whether someone will default on a loan. This knowledge can be valuable for managing the company's loan portfolio and assessing risks.
+
+**Findings:**
+1. Business entity types 2 and 3, as well as self-employed individuals, exhibit the lowest default rates.
+2. Applicants with incomes falling within the 1 - 1.5 lakh range tend to default less frequently. This may be due to their affordability or possibly because there are fewer applicants in this income bracket. However, further investigation is needed to make a more informed judgment.
+Women have a higher representation among defaulters. To better understand this trend, we should examine the number of working women, their salaries, and compare them to men in the workforce.
+3. Based on the study, students and pensioners do not appear to be the ideal target groups.
+4. Married individuals constitute the largest group of loan applicants and defaulters.
+5. Further analysis and hypothesis testing required to test the claims
+
